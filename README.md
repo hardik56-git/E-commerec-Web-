@@ -109,7 +109,7 @@ Designed and optimized for:
 
 <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
 
-<img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=js" height="55" alt="ts" />
 
 <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS" />
 
