@@ -1,0 +1,6 @@
+{
+  "name": "HARDIK",
+  "description": "Japanese luxury minimalist e-commerce store featuring high-end apparel, timepieces, leather goods, and interior design items in Yen (¥) with bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
