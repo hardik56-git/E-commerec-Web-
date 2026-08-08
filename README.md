@@ -1,7 +1,7 @@
 # ✦ HARDIK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,tailwind,vite,html" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,html" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A modern, responsive and elegant e-commerce frontend built with React, JavaScript, Tailwind CSS and Vite.
+  A modern, responsive and elegant e-commerce frontend built with React, typescript, Tailwind CSS and Vite.
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@ Designed and optimized for:
 | Technology | Purpose |
 |---|---|
 | **React** | Component-based UI development |
-| **JavaScript** | Application logic and interactions |
+| **Typescript** | Application logic and interactions |
 | **Tailwind CSS** | Styling and responsive design |
 | **HTML5** | Semantic page structure |
 | **Vite** | Development and build tooling |
@@ -150,9 +150,9 @@ Examples include:
 
 This makes the application easier to maintain and scale.
 
-### JavaScript
+### Typescript
 
-JavaScript handles the application's interactive functionality, including:
+Typescript handles the application's interactive functionality, including:
 
 - Searching
 - Filtering
